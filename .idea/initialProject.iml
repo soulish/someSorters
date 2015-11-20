@@ -11,6 +11,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src/mergeSorter.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/quickSorter.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/quickSorter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/radixSorter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/radixSorter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/selectionSorter.h" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
