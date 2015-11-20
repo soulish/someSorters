@@ -4,6 +4,9 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/PriorityQueue.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/PriorityQueue.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/heapSorter.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/mergeSorter.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/mergeSorter.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/quickSorter.cpp" isTestSource="false" />
